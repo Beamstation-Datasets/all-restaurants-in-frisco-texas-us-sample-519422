@@ -1,6 +1,6 @@
 # All Restaurants in Frisco, Texas, US
 
-> Free BeamStation sample export with 68 rows and masked direct-contact fields.
+> Free BeamStation sample export with 50 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `519422` |
 | Location | Frisco |
 | Category | Restaurants |
-| Full dataset size | 683 records |
-| Free sample size | 68 records (9.96%) |
-| Last export | 2026-04-14T18:24:12.678014+00:00 |
+| Full dataset size | 506 records |
+| Free sample size | 50 records (9.88%) |
+| Last export | 2026-04-21T20:15:52.719690+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-frisco-texas-us-sample-519422/releases/download/sample-latest/beamstation_519422_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample

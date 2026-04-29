@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8765c507-7bb3-4a08-927f-286e608bd58c",
+  "export_job_id": "1c76cbdc-c89e-4e43-bf1f-fd9b7911a748",
   "id_short": 519422,
-  "published_at": "2026-04-22T07:36:58Z",
+  "published_at": "2026-04-29T07:18:31Z",
   "repo_name": "all-restaurants-in-frisco-texas-us-sample-519422",
   "sample_asset_name": "beamstation_519422_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/519422/beamstation_519422_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 50,
-  "sample_sha256": "9d28b52a0a91fbe2237ad1903e34a94071177de6952c1da32dfefcbdaab6b767",
-  "sample_size_bytes": 205320,
-  "total_records": 506
+  "sample_records": 65,
+  "sample_sha256": "2d056fed661f16a77806aefad745c487babf957afd0d04c98efc0bf3f4e3b3c7",
+  "sample_size_bytes": 233921,
+  "total_records": 652
 }
